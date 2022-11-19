@@ -1,6 +1,6 @@
 # Song Extractor
 
-This program uses songbpm.com api to extract information like BPM, Key and Duration from a song.
+This program uses https://songbpm.com api to extract information like BPM, Key and Duration from a song.
 
 ## Installation
 
