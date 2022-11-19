@@ -10,4 +10,4 @@ You just need to clone this repo and install the requirements:
 pip install -r requirements.txt
 ```
 
-The main program is $song_extractor.py$
+The main program is `song_extractor.py`
